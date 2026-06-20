@@ -1,0 +1,7 @@
+resume_data/
+job_data/
+
+*.zip
+kaggle.json
+__pycache__/
+.ipynb_checkpoints/
