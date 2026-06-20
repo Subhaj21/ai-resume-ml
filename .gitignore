@@ -1,7 +1,14 @@
-resume_data/
-job_data/
 
+# Raw datasets
+job_data/
+resume_data/
+
+# Downloads
 *.zip
+
+# Kaggle
 kaggle.json
+
+# Python
 __pycache__/
 .ipynb_checkpoints/
